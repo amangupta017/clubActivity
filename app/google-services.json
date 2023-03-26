@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376541933144",
+    "firebase_url": "https://chatapplication-a5933-default-rtdb.firebaseio.com",
+    "project_id": "chatapplication-a5933",
+    "storage_bucket": "chatapplication-a5933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376541933144:android:b6fe1203a064dfcdbee42d",
+        "android_client_info": {
+          "package_name": "com.example.clubactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376541933144-9nqh40t7asnjvpng853k1bq994c9dgin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz0wWrINY31_GR6gvd6jpMY9YIhnVHKOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376541933144-9nqh40t7asnjvpng853k1bq994c9dgin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
